@@ -25,5 +25,9 @@ opencv-contrib-python-4.6.0.66
 
 Webカメラに動きがあるとそれを画像として保存する。
 
+## 備考
+
+OpenCVのインストールが必要
+
 ## 参考
 https://sasuwo.org/motion-detection/
