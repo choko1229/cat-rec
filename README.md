@@ -1,15 +1,15 @@
-# cat-rec
-目的
+# 野良猫の撮影
+## 目的
 
 家に来る野良猫の撮影
 
-ハードウェア
+## ハードウェア
 
 サーバー:core i7 8700 RAM32GiB
 
 WebCam:Logicool C270
 
-ソフトウェア
+## ソフトウェア
 
 OS:Ubuntu desktop LTS 22.04
 
