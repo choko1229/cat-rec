@@ -20,3 +20,7 @@ numpy-1.23.3
 opencv-python-4.6.0.66
 
 opencv-contrib-python-4.6.0.66
+
+## 機能
+
+Webカメラに動きがあるとそれを画像として保存する。
